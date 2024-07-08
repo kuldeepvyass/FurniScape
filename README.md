@@ -424,3 +424,11 @@ goals:
 - []() MSc. Nguyen Trung Nghia
 - []() The README.md template from **[othneildrew](https://github.com/othneildrew/Best-README-Template)**
 
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/congbangitiu/FurniScape.svg?style=for-the-badge
+[contributors-url]: https://github.com/congbangitiu/FurniScape/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/congbangitiu/FurniScape.svg?style=for-the-badge
+[forks-url]: https://github.com/congbangitiu/FurniScape/network/members
+[issues-shield]: https://img.shields.io/github/issues/congbangitiu/FurniScape.svg?style=for-the-badge
+[issues-url]: https://github.com/congbangitiu/FurniScape/issues
